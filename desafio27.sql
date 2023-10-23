@@ -1,1 +1,1 @@
-DELETE FROM order_details;
+TRUNCATE TABLE order_details;
